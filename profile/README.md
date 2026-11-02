@@ -1,22 +1,28 @@
 <div align="center">
 
-# Vanilla Sphere
+<h1><img src="https://raw.githubusercontent.com/Vanilla-Sphere/.github/main/brand/vanilla-sphere/vanilla-sphere-wordmark.svg" alt="Vanilla Sphere" width="480"></h1>
 
 ### Explore the sky. Connect the observations. Discover what moves.
 
-**An independent student/team initiative for NASA Space Apps Challenge 2026**  
+**An independent student/team initiative for NASA Space Apps Challenge 2026**
+
+<p>
+  <a href="https://www.spaceappschallenge.org/2026/">
+    <img src="https://raw.githubusercontent.com/Vanilla-Sphere/.github/main/brand/space-apps/space-apps-default-2color-black-compact.svg" alt="NASA International Space Apps Challenge" width="180">
+  </a>
+  <br>
+  <sub>NASA International Space Apps Challenge 2026</sub>
+</p>
+
 **Challenge focus: [Planet X and SPHEREx](https://www.spaceappschallenge.org/2026/challenges/planet-x-and-spherex/?tab=details)**
 
-[![Challenge](https://img.shields.io/badge/NASA%20Space%20Apps-2026-15345a)](https://www.spaceappschallenge.org/2026/)
-[![Research](https://img.shields.io/badge/SPHEREx-Level%202-147d87)](https://irsa.ipac.caltech.edu/)
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue)](https://github.com/Vanilla-Sphere/spherex-research/blob/main/LICENSE)
+[![Challenge](https://img.shields.io/badge/NASA%20Space%20Apps-2026-15345a?style=flat-square)](https://www.spaceappschallenge.org/2026/)
+[![Research](https://img.shields.io/badge/SPHEREx-Level%202-147d87?style=flat-square)](https://irsa.ipac.caltech.edu/)
+[![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=flat-square)](https://github.com/Vanilla-Sphere/spherex-research/blob/main/LICENSE)
 
 </div>
 
 ## Who we are
-
-Brand assets (palette, Space Apps SVG redraw, team wordmark): [`brand/`](../brand/) · [BRAND.md](../brand/BRAND.md).
-
 
 **Vanilla Sphere** is a collaborative astronomy and software engineering team exploring how NASA's **SPHEREx** infrared observations can support the detection, tracking, and identification of celestial objects.
 
@@ -43,5 +49,7 @@ We aim to build a transparent workflow that can:
 **Vanilla-Sphere · NASA Space Apps Challenge 2026**
 
 *Scientific curiosity, responsible collaboration, and evidence-first discovery.*
+
+<sub>[Brand guidelines](https://github.com/Vanilla-Sphere/.github/blob/main/brand/BRAND.md) · [Brand assets](https://github.com/Vanilla-Sphere/.github/tree/main/brand)</sub>
 
 </div>
