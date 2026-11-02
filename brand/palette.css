@@ -1,0 +1,11 @@
+/* Vanilla Sphere team UI tokens. Do not apply these to Space Apps SVG internals. */
+:root {
+  --vs-navy: #15345a;
+  --vs-teal: #147d87;
+  --vs-vanilla: #f7f4eb;
+  --vs-deep-sky: #07173f;
+  --vs-white: #ffffff;
+  --vs-blue-yonder: #2e96f5;
+  --vs-font-title: 'Fira Sans', system-ui, sans-serif;
+  --vs-font-body: 'Overpass', system-ui, sans-serif;
+}

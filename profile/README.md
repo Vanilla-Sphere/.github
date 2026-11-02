@@ -15,6 +15,9 @@
 
 ## Who we are
 
+Brand assets (palette, Space Apps SVG redraw, team wordmark): [`brand/`](../brand/) · [BRAND.md](../brand/BRAND.md).
+
+
 **Vanilla Sphere** is a collaborative astronomy and software engineering team exploring how NASA's **SPHEREx** infrared observations can support the detection, tracking, and identification of celestial objects.
 
 Our work combines scientific data processing, astrometry, motion estimation, cross-matching, and reproducible research. We are an **independent hackathon team** and are **not affiliated with or endorsed by NASA, Caltech/IPAC, or ESA**.
