@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://raw.githubusercontent.com/Vanilla-Sphere/.github/main/brand/vanilla-sphere/vanilla-sphere-wordmark.svg" alt="Vanilla Sphere" width="480"></h1>
+<h1><img src="https://github.com/Vanilla-Sphere/sphere-blink/raw/refs/heads/main/web/logo-light.svg" alt="Vanilla Sphere" width="480"></h1>
 
 ### Explore the sky. Connect the observations. Discover what moves.
 
