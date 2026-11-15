@@ -10,7 +10,6 @@
 
 [![Challenge](https://img.shields.io/badge/NASA%20Space%20Apps-2026-15345a?style=flat-square)](https://www.spaceappschallenge.org/2026/)
 [![Research](https://img.shields.io/badge/SPHEREx-Level%202-147d87?style=flat-square)](https://irsa.ipac.caltech.edu/)
-[![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=flat-square)](https://github.com/Vanilla-Sphere/spherex-research/blob/main/LICENSE)
 
 </div>
 
